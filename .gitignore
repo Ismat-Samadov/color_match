@@ -1,1 +1,7 @@
 .claude
+
+# Dataset files
+*.csv
+
+# Exploration scripts
+explore_data.py
